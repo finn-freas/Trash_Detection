@@ -20,4 +20,36 @@ Model Artifacts
 
 best.pt — The trained YOLOv5 model weights
 
+Images:
+
+Confidence Curve:
+
+![Confidence Curve](images/media_images_Results_36_e4bed294bd7ca59c259a.png)
+
+Confusion Matrix:
+
+![Confusion Matrix](images/media_images_Results_36_f36c2b6ee06822fead90.png)
+
+Images: 
+
+![Graphs](images/media_images_Results_36_f6e0f40945966f09baec.png)
+
+Results:
+
+![Val](images/media_images_Validation_36_21d743efd791c38ad93b.jpg)
+
+![Val](images/media_images_Validation_36_5ed91284d56bfcc934d1.jpg)
+
+![Val](images/media_images_Validation_36_9a5c1fc8c0b207f95445.jpg)
+
+
+Note:
+
+I chose to do 36 epochs, as I found after that performance began to fall off:
+
+![v1](images/graph_v1.jpeg)
+
+![v1](images/graph_v1_loss.jpeg)
+
+![v1](images/graph_v1_precision.jpeg)
 
