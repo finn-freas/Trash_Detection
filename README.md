@@ -47,4 +47,9 @@ Note:
 
 I chose to do 36 epochs, as I found after that performance began to fall off:
 
+![v1](images/graph_v1.jpeg)
+
+![v1](images/graph_v1_loss.jpeg)
+
+![v1](images/graph_v1_precision.jpeg)
 
