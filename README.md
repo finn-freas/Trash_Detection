@@ -22,7 +22,7 @@ Compatible with video streams for live detection
 Trained using YOLOv5 architecture and PyTorch framework
 Model Artifacts
 
-best.pt — The trained YOLOv5 model weights
+Best_Weights.pt — The trained YOLOv5 model weights
 
 Images:
 
