@@ -51,9 +51,9 @@ Graphs:
 
 Results:
 
-![Val](images/media_images_Validation_36_21d743efd791c38ad93b.jpg)
+![Val](images/media_images_Validation_36_c257709a16cc6aa5b6a5.jpg)
 
-![Val](images/media_images_Validation_36_5ed91284d56bfcc934d1.jpg)
+![Val](images/media_images_Validation_36_d1ba1d852438b09a2f26.jpg)
 
 ![Val](images/media_images_Validation_36_9a5c1fc8c0b207f95445.jpg)
 
