@@ -16,10 +16,15 @@ Educational and research tools
 Features
 
 Real-time object detection performance
+
 Supports batch image processing
+
 Lightweight and deployable to edge devices (Raspberry Pi, NVIDIA Jetson, etc.)
+
 Compatible with video streams for live detection
+
 Trained using YOLOv5 architecture and PyTorch framework
+
 Model Artifacts
 
 Best_Weights.pt — The trained YOLOv5 model weights
