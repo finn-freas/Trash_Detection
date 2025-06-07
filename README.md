@@ -15,6 +15,7 @@ Features:
 
 - Real-time object detection performance
 
+- Can differentiate between different types of trash
 
 - Supports batch image processing
 
