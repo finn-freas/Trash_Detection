@@ -1,7 +1,5 @@
 # Trash_Detection
 
-##IN THE PROCESS OF EDITING README AND REPOSITORY
-
 Trash Detection Model (YOLOv5 PyTorch)
 
 This repository contains a custom-trained YOLOv5 object detection model built with PyTorch to detect trash and litter in images. The model has been trained on a large dataset of labeled images containing various types of trash (plastic, cans, paper, bottles, etc.) in diverse environments such as streets, parks, beaches, and natural landscapes. The goal of this project is to support automated waste detection for applications such as:
@@ -38,24 +36,35 @@ Best_Weights.pt — The trained YOLOv5 model weights
 
 ### Images:
 
-Confidence Curves:
+![Mosaic](images/Mosaic_Confidence_1.png)
 
-![Confidence Curve](images/media_images_Results_36_e4bed294bd7ca59c259a.png)
+![Mosaic](images/Mosaic_Confidence_2.png)
 
-![Confidence Curve](images/media_images_Results_36_2a5a551479623f33c06a.png)
+![Mosaic](images/Mosaic_Confidence_3.png)
 
-![Confidence Curve](images/media_images_Results_36_5bd4c40bf45cd7813688.png)
+## Confidence Curves:
 
-![Confidence Curve](images/media_images_Results_36_988d24134f85eef8bc12.png)
+![Confidence Curve](images/F1_Confidence_Curve.png)
 
+![Confidence Curve](images/Precision_Confidence_Curve.png)
+
+![Confidence Curve](images/Precision_Recall_Curve.png)
+
+![Confidence Curve](images/Recall_Confidence_Curve.png)
 
 ### Confusion Matrix:
 
-![Confusion Matrix](images/Image.jpg)
+![Confusion Matrix](images/Confusion_Matrix.png)
 
-### Graphs: 
+### Performance Graphs: 
 
-![Graphs](images/media_images_Results_36_f6e0f40945966f09baec.png)
+![Graphs](images/Performance_Graphs.png)
+
+## Label Graphs
+
+![Label Graphs](images/labels_graph_1.png)
+
+![Label Graphs](images/Labels_Graph_2.png)
 
 ### Results:
 
@@ -64,15 +73,4 @@ Confidence Curves:
 ![Val](images/media_images_Validation_36_d1ba1d852438b09a2f26.jpg)
 
 ![Val](images/media_images_Validation_36_9a5c1fc8c0b207f95445.jpg)
-
-
-### Note:
-
-I chose to do 36 epochs, as I found after that performance began to fall off after:
-
-![v1](images/graph_v1.jpeg)
-
-![v1](images/graph_v1_loss.jpeg)
-
-![v1](images/graph_v1_precision.jpeg)
 
