@@ -36,6 +36,7 @@ Preprocessing:
 - Auto-Orient: Applied
 - Resize: Fit (reflect edges) in 640x640
 - Auto-Adjust Contrast: Using Contrast Stretching
+  
 Augmentations (3 outputs per training example):
 - Flip: Horizontal, Vertical
 - Rotation: Between -15° and +15°
@@ -90,14 +91,6 @@ Trash_Detection_Script.py - The script I used for training
 ![Label Graphs](images/labels_graph_1.png)
 
 ![Label Graphs](images/Labels_Graph_2.png)
-
-### Results:
-
-![Val](images/media_images_Validation_36_c257709a16cc6aa5b6a5.jpg)
-
-![Val](images/media_images_Validation_36_d1ba1d852438b09a2f26.jpg)
-
-![Val](images/media_images_Validation_36_9a5c1fc8c0b207f95445.jpg)
 
 ## Notes:
 
