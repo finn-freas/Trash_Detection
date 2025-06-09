@@ -11,10 +11,11 @@ This repository contains a custom-trained YOLOv5 object detection model built wi
 
 - Educational and research tools
 
-Features:
+### Features:
 
 - Real-time object detection performance
 
+- Can differentiate between different types of trash
 
 - Supports batch image processing
 
@@ -24,11 +25,11 @@ Features:
 
 - Trained using YOLOv5 architecture and PyTorch framework
 
-Repository:
+## Repository:
 
 Best_Weights.pt — The trained YOLOv5 model weights
 
-Images:
+### Images:
 
 Confidence Curves:
 
@@ -41,24 +42,24 @@ Confidence Curves:
 ![Confidence Curve](images/media_images_Results_36_988d24134f85eef8bc12.png)
 
 
-Confusion Matrix:
+### Confusion Matrix:
 
 ![Confusion Matrix](images/Image.jpg)
 
-Graphs: 
+### Graphs: 
 
 ![Graphs](images/media_images_Results_36_f6e0f40945966f09baec.png)
 
-Results:
+### Results:
 
-![Val](images/media_images_Validation_36_21d743efd791c38ad93b.jpg)
+![Val](images/media_images_Validation_36_c257709a16cc6aa5b6a5.jpg)
 
-![Val](images/media_images_Validation_36_5ed91284d56bfcc934d1.jpg)
+![Val](images/media_images_Validation_36_d1ba1d852438b09a2f26.jpg)
 
 ![Val](images/media_images_Validation_36_9a5c1fc8c0b207f95445.jpg)
 
 
-Note:
+### Note:
 
 I chose to do 36 epochs, as I found after that performance began to fall off after:
 
