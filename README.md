@@ -28,7 +28,24 @@ This repository contains a custom-trained YOLOv5 object detection model built wi
 
 ## Dataset
 
-https://drive.google.com/drive/folders/1RZOjxU6KcMJte-Xc5aZ8q1uYAKh5kP35?usp=share_link
+https://drive.google.com/drive/folders/1RZOjxU6KcMJte-Xc5aZ8q1uYAKh5kP35?usp=share_link 
+
+NOTE: Preprocessing and augmentations are already applied:
+
+Preprocessing: 
+- Auto-Orient: Applied
+- Resize: Fit (reflect edges) in 640x640
+- Auto-Adjust Contrast: Using Contrast Stretching
+Augmentations (3 outputs per training example):
+- Flip: Horizontal, Vertical
+- Rotation: Between -15° and +15°
+- Shear: ±5° Horizontal, ±5° Vertical
+- Hue: Between -15° and +15°
+- Saturation: Between -15% and +15%
+- Brightness: Between -15% and +15%
+- Exposure: Between -15% and +15%
+- Blur: Up to 0.2px
+- Noise: Up to 0.5% of pixels
 
 ## Repository:
 
@@ -81,4 +98,12 @@ Trash_Detection_Script.py - The script I used for training
 ![Val](images/media_images_Validation_36_d1ba1d852438b09a2f26.jpg)
 
 ![Val](images/media_images_Validation_36_9a5c1fc8c0b207f95445.jpg)
+
+## Notes:
+
+- I recommend a confidence of 0.4 for inference, it has worked best for me
+- If you choose to train a similar model, I do not recommend using the cosine learning rate, as my recall dropped off enormously after epoch 40
+- It is helpful to cache (use --cache in the training command), as I found the training was faster that way
+- When training this model, mAP tended to stop increasing after epoch 40, or if it did it was too minimal to have any real effect on the performance
+
 
