@@ -33,6 +33,10 @@ https://drive.google.com/drive/folders/1RZOjxU6KcMJte-Xc5aZ8q1uYAKh5kP35?usp=sha
 ## Repository:
 
 Best_Weights.pt — The trained YOLOv5 model weights
+Requirements.txt - Necessary Python Dependencies
+Hyp.yaml - The hyperparameters I used when training
+Results.csv - Logged performance metrics for each epoch
+Trash_Detection_Script.py - The script I used for training
 
 ### Images:
 
