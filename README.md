@@ -1,4 +1,7 @@
 # Trash_Detection
+
+##IN THE PROCESS OF EDITING README AND REPOSITORY
+
 Trash Detection Model (YOLOv5 PyTorch)
 
 This repository contains a custom-trained YOLOv5 object detection model built with PyTorch to detect trash and litter in images. The model has been trained on a large dataset of labeled images containing various types of trash (plastic, cans, paper, bottles, etc.) in diverse environments such as streets, parks, beaches, and natural landscapes. The goal of this project is to support automated waste detection for applications such as:
