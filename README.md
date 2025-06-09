@@ -28,6 +28,10 @@ This repository contains a custom-trained YOLOv5 object detection model built wi
 
 - Trained using YOLOv5 architecture and PyTorch framework
 
+## Dataset
+
+https://drive.google.com/drive/folders/1RZOjxU6KcMJte-Xc5aZ8q1uYAKh5kP35?usp=share_link
+
 ## Repository:
 
 Best_Weights.pt — The trained YOLOv5 model weights
