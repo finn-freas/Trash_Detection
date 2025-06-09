@@ -26,6 +26,16 @@ This repository contains a custom-trained YOLOv5 object detection model built wi
 
 - Trained using YOLOv5 architecture and PyTorch framework
 
+## Example: 
+
+### Photo (I took this myself):
+
+![Mosaic](images/Example_Photo.png)
+
+### Results:
+
+![Mosaic](images/Example_Photo_Results.png)
+
 ## Dataset
 
 https://drive.google.com/drive/folders/1RZOjxU6KcMJte-Xc5aZ8q1uYAKh5kP35?usp=share_link 
