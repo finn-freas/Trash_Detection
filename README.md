@@ -110,6 +110,6 @@ Trash_Detection_Script.py - The script I used for training
 - I recommend a confidence of 0.3 for inference, it has worked best for me
 - If you choose to train a similar model, I do not recommend using the cosine learning rate, as my recall dropped off enormously after epoch 40
 - It is helpful to cache (use --cache in the training command), as I found the training was faster that way
-- When training this model, mAP tended to stop increasing after epoch 40, or if it did it was too minimal to have any real effect on the performance
+- When training this model, mAP tended to stop increasing after epoch 35-39, or if it did it was too minimal to have any real effect on the performance
 
 
