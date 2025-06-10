@@ -62,6 +62,8 @@ Augmentations (3 outputs per training example):
 
 Best_Weights.pt — The trained YOLOv5 model weights
 
+Inference.py - A script for running inference on images using this model
+
 Requirements.txt - Necessary Python Dependencies
 
 Hyp.yaml - The hyperparameters I used when training
@@ -69,6 +71,7 @@ Hyp.yaml - The hyperparameters I used when training
 Results.csv - Logged performance metrics for each epoch
 
 Trash_Detection_Script.py - The script I used for training
+
 
 ### Images:
 
