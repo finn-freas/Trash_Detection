@@ -77,7 +77,7 @@ Trash_Detection_Script.py - The script I used for training
 
 ![Mosaic](images/Mosaic_Confidence_1.png)
 
-![Mosaic](images/Mosaic_Confidence_2.png)
+![Mosaic](images/Mosaic_4.png)
 
 ![Mosaic](images/Mosaic_Confidence_3.png)
 
