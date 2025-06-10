@@ -1,4 +1,4 @@
-# Trash_Detection
+# Trash Detection
 
 Trash Detection Model (YOLOv5 PyTorch)
 
