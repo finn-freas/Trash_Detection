@@ -104,7 +104,7 @@ Trash_Detection_Script.py - The script I used for training
 
 ## Label Graphs
 
-![Label Graphs](images/labels_graph_1.png)
+![Label Graphs](images/Labels_Graph_1.png)
 
 ![Label Graphs](images/Labels_Graph_2.png)
 
