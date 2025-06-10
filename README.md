@@ -1,4 +1,4 @@
-# Trash_Detection
+# Trash Detection
 
 Trash Detection Model (YOLOv5 PyTorch)
 
@@ -75,11 +75,14 @@ Trash_Detection_Script.py - The script I used for training
 
 ### Images:
 
-![Mosaic](images/Mosaic_Confidence_1.png)
+![Mosaic](images/Mosaic_6.png)
 
 ![Mosaic](images/Mosaic_4.png)
 
 ![Mosaic](images/Mosaic_Confidence_3.png)
+
+![Mosaic](images/Mosaic_5.png)
+
 
 ## Confidence Curves:
 
@@ -101,7 +104,7 @@ Trash_Detection_Script.py - The script I used for training
 
 ## Label Graphs
 
-![Label Graphs](images/labels_graph_1.png)
+![Label Graphs](images/Labels_Graph_1.png)
 
 ![Label Graphs](images/Labels_Graph_2.png)
 
