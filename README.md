@@ -81,7 +81,7 @@ Trash_Detection_Script.py - The script I used for training
 
 ![Mosaic](images/Mosaic_Confidence_3.png)
 
-![Mosaic](images/Mosaic_5)
+![Mosaic](images/Mosaic_5.png)
 
 
 ## Confidence Curves:
