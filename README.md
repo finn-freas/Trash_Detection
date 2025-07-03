@@ -1,4 +1,6 @@
 # Trash Detection
+![Bash](https://img.shields.io/badge/language-Python-blue?logo=gnu-bash)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 Trash Detection Model (YOLOv5 PyTorch)
 
