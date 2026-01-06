@@ -8,7 +8,7 @@ This repository contains a custom-trained YOLOv5 object detection model built wi
 
 - Autonomous trash-collecting drones
 
-- Smart city monitoring
+- Trash detection for debris on roads
 
 - Environmental cleanup initiatives
 
